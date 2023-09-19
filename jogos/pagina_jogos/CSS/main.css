@@ -1,0 +1,52 @@
+main {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.fundo_branco {
+    background-color: rgba(255, 255, 255, 0.35); /* Cor de fundo com opacidade */
+    padding: 1.25rem;
+    border-radius: 0.938rem; /* Arredondamento nas bordas */
+    text-align: center;
+    width: 40.938rem;
+    height: 19.375rem; 
+    margin-bottom: 5.063rem;
+}
+
+.teste {
+    padding: 1.063rem 4.063rem 1.125rem 5.125rem;
+
+    color: #002911;
+
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.botao_jogo {
+
+    width: 22.938rem;
+    height: 3.875rem;   
+
+    color: #D1F7CB;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+    border-radius: 48px;
+    background: #2A4B25;
+
+    margin-bottom: 5.125rem;
+}

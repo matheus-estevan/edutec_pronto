@@ -1,0 +1,34 @@
+.container {
+    height: calc(100vh - 50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}   
+
+.logo {
+    width: 25rem;
+    height: 13.125rem;
+}
+
+.botao {
+    padding: 0.5rem;
+    background-color: #2A4B25;
+    border: none;
+    border-radius: 3rem; 
+}
+
+.barrinha {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 3.125rem; /* Altura do rodapé */
+    
+
+    background-color: #2A4B25;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}

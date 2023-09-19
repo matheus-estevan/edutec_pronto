@@ -1,0 +1,121 @@
+.texto_2 {
+    display: flex;
+    position: relative;
+    margin-bottom: 7.813rem;
+}
+
+.infos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 2rem;
+    line-height: 3.75rem;
+    color: #004B1E; 
+}
+
+.h22 {
+    margin: 1.25rem;
+    margin-left: 0.938rem;
+    text-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.75rem;
+    line-height: 3.75rem;
+    color: #004B1E;   
+}
+
+.nav2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.conection2 {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    margin-bottom: 0.625rem;
+    margin-left: 11.875rem;
+}
+
+.conection2 button {
+    display: block;
+    margin: 0 auto;
+}
+
+.conection2 h2 {
+    text-align: center;
+}
+
+.gmail {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 1.25rem;
+}
+
+.passarinho {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 1.25rem;
+}
+
+.insta {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 1.25rem;
+}
+
+.face {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 1.25rem;
+}
+
+.conection2 h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    color: #004B1E;   
+}
+
+.containerr {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+.barrinha {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 6.938rem; /* Altura  do rodapé */
+    background-color: #2A4B25;
+}
+
+.botao {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.tigrinho {
+    margin-bottom: -4rem;
+}

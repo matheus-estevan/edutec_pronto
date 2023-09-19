@@ -1,0 +1,10 @@
+#botao-imagem img {
+    width: 4.688rem; /* Largura da imagem (ajuste conforme necessário) */
+    height: 4.688rem; /* Altura da imagem (ajuste conforme necessário) */
+}
+
+#botao-imagem {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.625rem;
+}

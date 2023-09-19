@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    gap: 20.75rem;
+}
+
+.sessao_container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.sessao_container h1 {
+    color: #004B1E;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}

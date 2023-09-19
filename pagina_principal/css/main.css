@@ -1,0 +1,40 @@
+.informações {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 4.313rem;
+    margin-bottom: 4.813rem;
+}
+
+.imagem img {
+    height: 40rem; 
+}
+
+.fundo_texto {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    opacity: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 47.375rem;
+    height: 25rem;
+    
+}
+
+.teste {
+    margin: 7.313rem 2.688rem;
+
+
+    text-align: center;
+    color: #002911;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 3rem;
+    
+} 

@@ -1,0 +1,28 @@
+/* Estilo para o rodapé */
+.rodape {
+    background-color: #2A4B25;
+    padding: 0;
+    width: 100%;
+    height: 3.438rem;
+    display: flex;
+    justify-content: flex-end; /* Alinhar a imagem à direita */
+    align-items: center;
+}
+
+/* Estilo para a imagem no rodapé */
+.imagem-rodape {
+    margin-right: 1.25rem; /* Espaço à direita da imagem */
+    max-height: 100%; /* Ajustar a altura da imagem para caber no rodapé */
+    max-width: 100%; /* Ajustar a largura da imagem para caber no rodapé */
+}
+
+#botao-imagem img {
+    width: 4.688rem; /* Largura da imagem (ajuste conforme necessário) */
+    height: 4.688rem; /* Altura da imagem (ajuste conforme necessário) */
+}
+
+#botao-imagem {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.625rem;
+}

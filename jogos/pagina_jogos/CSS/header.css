@@ -1,0 +1,7 @@
+.recipiente {
+    display: flex;
+    gap: 20.75rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2.563rem;
+}

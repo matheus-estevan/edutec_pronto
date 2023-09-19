@@ -1,0 +1,9 @@
+.linha {
+    display: flex; /* Torna os elementos filhos em linha */
+    justify-content: center; /* Centraliza os elementos horizontalmente */
+}
+
+.linha img {
+    width: 14.134rem;
+    height: 19.059rem;
+}

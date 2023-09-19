@@ -1,0 +1,31 @@
+.container_2 {
+    display: flex;
+    gap: 20.75rem;
+}
+
+.section_container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.section_container h1 {
+    color: #004B1E;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+#botao-imagem img {
+    width: 4.688rem; /* Largura da imagem (ajuste conforme necessário) */
+    height: 4.688rem; /* Altura da imagem (ajuste conforme necessário) */
+}
+
+#botao-imagem {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0.625rem;
+}

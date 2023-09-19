@@ -1,0 +1,100 @@
+.biover {
+    margin-left: 4.125rem;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.biover img {
+    width: 17.625rem;
+    height: 6.625rem;
+}
+
+.cont {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.cont img {
+    width: 7.707rem;
+    height: 6.914rem;
+}
+
+.cont h2 {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: #fff;
+    margin-top: 0.625rem;
+}
+
+.vid {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.vid img {
+    width: 7.707rem;
+    height: 6.914rem;
+}
+
+.vid h2 {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: #fff;
+    margin-top: 0.625rem;
+}
+
+.jogo h2 {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: #fff;
+    margin-top: 0.625rem;
+}
+
+.jogo {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.jogo img {
+    width: 7.707rem;
+    height: 6.914rem;
+}
+
+#nav {
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.conexao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.conexao h2 {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    color: #004B1E;   
+} 
