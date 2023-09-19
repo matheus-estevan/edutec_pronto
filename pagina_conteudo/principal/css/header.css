@@ -1,6 +1,7 @@
 .container {
     display: flex;
-    gap: 20.75rem;
+
+    justify-content: space-between;
 }
 
 .sessao_container {
